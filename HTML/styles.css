@@ -1,0 +1,32 @@
+ul1 {
+    list-style-type: "§  " ;
+  }
+
+ul2 {
+    list-style-type: ".  " ;
+  }
+
+  body { 
+    font-family: Arial, sans-serif;  
+   }
+   .letter { 
+    color: red; 
+    font-size: 200%; 
+    font-family: serif;  
+    position: relative;  
+    top: 5px; 
+   }
+  .ordinary{
+    font-family:Arial, sans-serif;
+	color: orange;
+
+}   
+#P1 {
+    color: red;
+    text-align: center;
+ }
+
+ #P2 {
+    color: green;
+    text-align: center;
+ }
